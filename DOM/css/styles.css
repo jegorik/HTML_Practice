@@ -1,0 +1,31 @@
+body {
+    background-color: #758184;
+}
+
+.heading {
+    margin: 4%;
+}
+
+.text {
+    color: #cfb495;
+    text-align: center;
+}
+
+#result {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 8rem;
+}
+
+.container-fluid {
+    padding: 5% 35%;
+}
+
+.name {
+    font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
+    padding: 2%;
+}
+
+.score {
+    padding: 2%;
+}
