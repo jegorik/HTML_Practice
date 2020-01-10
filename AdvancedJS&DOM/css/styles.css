@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background-color: #283149;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+.set {
+    margin: 10% auto;
+}
+
+.drum {
+    display: inline-block;
+    border: 10px solid #404B63;
+    border-radius: 15px;
+    margin: 10px;
+    height: 150px;
+    width: 150px;
+    font-family: "Arvo", cursive;
+    font-size: 5rem;
+    text-align: center;
+    text-shadow: 3px 0 #DBEDF3;
+    line-height: 2rem;
+    color: #DA0463;
+}
+
+.w {
+    background: url("../images/crash.png");
+}
+
+.a {
+    background: url("../images/kick.png");
+}
+
+.s {
+    background: url("../images/snare.png");
+}
+
+.d {
+    background: url("../images/tom1.png");
+}
+
+.j {
+    background: url("../images/tom2.png");
+}
+
+.k {
+    background: url("../images/tom3.png");
+}
+
+.l {
+    background: url("../images/tom4.png");
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #BDEDF3;
+    opacity: 0.5;
+}
